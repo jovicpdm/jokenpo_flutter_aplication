@@ -31,3 +31,5 @@ Execute o projeto
 ou 
 
 Execute diretamente pelo Android Studio.
+
+###AGORA É SÓ SE DIVERTIR
